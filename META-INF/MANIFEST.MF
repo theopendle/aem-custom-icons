@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Content-Package-Roots: /apps/demo/clientlibs/clientlib-icons,/apps/dem
+ o/components/content/demo,/apps/cq/core/content/nav/cards
+Content-Package-Type: application
+Content-Package-Id: my_packages:aem-custom-icons
+
